@@ -60,20 +60,20 @@
 }
 
 .btn-orange{
-  color: hsl(31, 77%, 52%);
+  color: hsl(31, 60%, 76%);
 }
 
 .btn-light_green{
-  color: hsl(184, 100%, 22%);
+  color: hsl(184, 71%, 72%);
 }
 
 .btn-dark_green{
-  color: hsl(179, 100%, 13%);
+  color: hsl(69, 100%, 63%);
 }
 
 .btn:hover{
   background-color: transparent;
-  border-color: #fff;
+  border-color: rgb(239, 81, 81);
 
   color: hsla(0, 0%, 100%, 0.75);
 }
